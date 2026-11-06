@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Ol%C3%A1,%20sou%20o%20Jo%C3%A3o%20Pedro!&fontSize=50&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20Jr.%20%7C%20IA%20%26%20Automa%C3%A7%C3%A3o&descAlignY=55&descAlign=50" alt="Banner Topo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Olá,%20sou%20o%20João%20Pedro!&fontSize=50&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20Jr.%20-%20IA%20e%20Automação&descAlignY=55&descAlign=50" alt="Banner Topo" />
 </div>
 
 <div align="center">
@@ -29,11 +29,10 @@ Com forte base em engenharia de software, meu foco é construir soluções efici
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedro-labs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro-labs&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedro-labs&theme=tokyonight&hide_border=true" height="180" alt="Estatísticas de Contribuição" />
 </div>
 
 ---
