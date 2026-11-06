@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Olá,%20sou%20o%20João%20Pedro!&fontSize=50&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20Jr.%20%7C%20IA%20%26%20Automação&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Ol%C3%A1,%20sou%20o%20Jo%C3%A3o%20Pedro!&fontSize=50&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20Jr.%20%7C%20IA%20%26%20Automa%C3%A7%C3%A3o&descAlignY=55&descAlign=50" alt="Banner Topo" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+Full-Stack;Foco+em+Integração+de+IA;Automação+e+Aplicações+Web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full-Stack;Foco+em+Integra%C3%A7%C3%A3o+de+IA;Automa%C3%A7%C3%A3o+e+Aplica%C3%A7%C3%B5es+Web" alt="Typing SVG" />
   </a>
 </div>
-
 ---
 
 ### 👨‍💻 Sobre mim
